@@ -1,74 +1,70 @@
 <div align="center">
 
-<img src="images/profile.png" width="130" style="border-radius: 50%;" alt="Abdallah Abou Hajal"/>
+<img src="images/profile.png" width="130" style="border-radius: 50%;" alt="Rahaf Al-Zeer"/>
 
-# Abdallah Abou Hajal
+# Rahaf Adnan Al-Zeer
 
-**AI × Drug Discovery · MSc Pharmaceutical Sciences · Data Analyst**
+**B.Pharm · Graduate Teaching Assistant · MSc Candidate in Drug Discovery & Development**
 
-📍 Abu Dhabi, UAE
+📍 Ajman, UAE
 
-[![Website](https://img.shields.io/badge/Website-Live-black?style=flat-square&logo=github)](https://scholarlybrightminds.github.io/abdallahabouhajal/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-1I8SvsQAAAAJ-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1I8SvsQAAAAJ&hl=en)
-[![Scopus](https://img.shields.io/badge/Scopus-58094444100-E9711C?style=flat-square)](https://www.scopus.com/authid/detail.uri?authorId=58094444100)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--1807--2178-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-1807-2178)
-[![Email](https://img.shields.io/badge/Email-abdallah.abouhajal@gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:abdallah.abouhajal@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-uy--28F0AAAAJ-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uy-28F0AAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1752--3171-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1752-3171)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahaf--al--zeer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahaf-al-zeer-7093391ba)
+[![Email](https://img.shields.io/badge/Email-rahaf@gmu.ac.ae-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:rahaf@gmu.ac.ae)
 
-![Publications](https://img.shields.io/badge/Publications-14-informational?style=flat-square)
-![Citations](https://img.shields.io/badge/Citations-99-informational?style=flat-square)
-![h--index](https://img.shields.io/badge/h--index-7-informational?style=flat-square)
+![Publications](https://img.shields.io/badge/Publications-6-pink?style=flat-square)
+![First Authored](https://img.shields.io/badge/First--Authored-2-pink?style=flat-square)
+![AACR Member](https://img.shields.io/badge/AACR-Member-informational?style=flat-square)
 
 </div>
 
----
+Hi! I'm Rahaf — a pharmacist, researcher, and educator based in Ajman, UAE 🌸
 
-I completed my Bachelor's in Pharmacy, and somewhere during my MSc, I fell into the world of AI and drug discovery, and honestly never looked back. Now i  and somehow ended up writing Python scripts to automate things nobody asked me to automate.
+I'm currently finishing my Master's in Drug Discovery & Development at Gulf Medical University, where I'm also a full-time Graduate Teaching Assistant. My thesis focuses on repurposing **Aprocitentan** — a licensed endothelin receptor antagonist — as a potential anticancer agent in pancreatic and breast cancer models. Defence is coming up in July 2026, Inshallah, and I can honestly say this journey has taught me as much about resilience as it has about science 😅
 
-My MSc thesis tackled a sneaky problem in early-stage drug discovery: **colloidal aggregators**, molecules that look like promising hits but are actually just clumping together and causing false positives. We built a machine learning tool to catch them early. And yes, it lives on a public web server. Still proud of that one.
+It was never just about the results. It was about learning how to keep going on the days when nothing seems to work — the failed trials, the repeated experiments, the unexpected readings — and then those small moments where everything finally starts to make sense 🤩 Alhamdulillah for every single one of them.
 
-After graduating, I spent two years as a **Managing Editor at Scifiniti Publishing**, which taught me more about how science actually gets published than any textbook ever could. Now I'm a **Data Analyst**. I automate workflows, report on journal performance, and generally make spreadsheets do things they didn't know they were capable of.
+My research interests sit at the intersection of **molecular pharmacology**, **drug repurposing**, and **nanomedicine**. I am also a proud member of the **American Association for Cancer Research (AACR)** — a small step, but a meaningful one in my journey in cancer research, and I'm deeply looking forward to being part of that scientific community 🔬
 
-I hope you enjoy my work, take a look at my papers, and maybe we can collaborate sometime!
+Outside the lab, I lead the **Student Mentorship Programme** at Gulf Medical University's Student Happiness Centre, pairing students with academic and professional mentors. Watching students grow and find their path is one of the most rewarding parts of this role, honestly.
 
----
+I have co-authored **6 publications** (2 as first author), spanning nanomedicine, qualitative pharmacist research, Alzheimer's therapeutics, and cancer pharmacology.
 
-## Research
+I hope you enjoy browsing my work — and if you see a chance to collaborate, I'd love to hear from you 💌
 
-My work sits at the intersection of **machine learning**, **cheminformatics**, and **drug discovery** — building predictive models that make early-stage drug screening faster, smarter, and less wasteful.
+**Currently working on:**
+Finishing my thesis 🏃‍♀️ · Preparing for my defence · Expanding into translational cancer research · Seeking PhD opportunities at the interface of molecular pharmacology, targeted delivery, and cancer biology
 
-**Selected publications:**
+**Education**
 
-- Abou Hajal A et al. — *Boosting the accuracy and chemical space coverage of the detection of small colloidal aggregating molecules using the BAD Molecule Filter* — **JCIM 2024**
-- Abou Hajal A, Al Meslamani AZ — *Insights into artificial intelligence utilisation in drug discovery* — **Journal of Medical Economics 2024** · 21 citations
-- Abou Hajal A, Sakkal M — *Introducing AutoML framework for drug–drug interaction prediction: Application of AutoGluon* — **Toxicology Mechanisms and Methods 2026**
-- Sakkal M, Abou Hajal A — *Large language models in drug delivery* — **J Pharm Sci 2025**
+🎓 MSc Drug Discovery & Development — Gulf Medical University, Ajman (2024 – July 2026 expected) · CGPA 3.9 / 4.0
 
-→ Full list on [Google Scholar](https://scholar.google.com/citations?user=1I8SvsQAAAAJ&hl=en) or the [Publications page](https://scholarlybrightminds.github.io/abdallahabouhajal/publications.html)
+🎓 Bachelor of Pharmacy (B.Pharm) — Dubai Medical University, Dubai (2020 – 2024) · CGPA 3.71 / 4.0
 
----
+**Selected Publications**
 
-## Skills
+📄 *Oral Delivery of Quercetin via Pro-Bilosomes as a Nano-Vesicle for Enhancing Bioavailability* — Submitted
 
-`Python` `scikit-learn` `TensorFlow` `AutoGluon` `CatBoost` `LightGBM`
-`RDKit` `MolVS` `Pandas` `NumPy` `Matplotlib` `SPSS`
+📄 *Awareness and Views towards Aesthetic Treatment among the Public in the UAE* — Al-Zeer RA (First Author) — Submitted
 
----
+📄 *Pharmacist Views and Barriers towards Promoting Disposal of Unwanted Medications in the UAE* — Published · BMC Public Health · DOI: 10.1186/s12889-025-21332-3
 
-## Awards
+📄 *Lecanemab and Emerging Therapies for Alzheimer's Disease: A Narrative Review* — Published · International Journal of Alzheimer's Disease · DOI: 10.1155/2024/2052142
 
-🥇 **First Place, BindHack Hackathon** — Insilico Medicine, Masdar City (2025)  
-🥈 **Three Minute Thesis, 2nd Place** — 2nd AAU Health and Biomedical Postgraduate Symposium (2024)  
-🥇 **Best Quality Poster, 1st Place** — 1st International Conference on Pharmacy and Biomedical Sciences, Al Ain University (2023)
+→ Full list on [Google Scholar](https://scholar.google.com/citations?user=uy-28F0AAAAJ&hl=en)
 
----
+**Awards**
 
-## Currently Learning
-> *"The more you know, the more you know that you don't know."*
+🥇 1st Place — Oral Presentation (Public Health & Biomedical Sciences) · 4th Al Ain University Postgraduate Symposium, Abu Dhabi · Feb 2026
 
-- Protein simulations (programmatic approaches)
-- Advanced AI tools for structure–dynamics relationships
-- End-to-end AI workflows for drug discovery
----
+🥈 2nd Place — Best Poster Presentation · 9th International Conference of Pharmacy and Medicine (ICPM 2024), Dubai · Feb 2024
+
+**Technical Skills**
+
+`Cell Culture` `MTT Assay` `SRB Cytotoxicity` `Western Blotting` `qPCR` `ELISA` `RNA Extraction`
+`Nano-vesicle Formulation` `Zeta-Sizer` `LC-MS` `Immunohistochemistry` `Metabolomics`
+`SPSS` `DD Solver` `PK Solver` `Thematic Analysis` `Manuscript Writing`
 
 <div align="center">
 
