@@ -30,7 +30,7 @@ jobs:
         # Your 'serpapi_fetcher.py' script must read it via os.getenv('SERPAPI_KEY')
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
-          SCHOLAR_AUTHOR_ID: '1I8SvsQAAAAJ'  # Your Google Scholar ID
+          SCHOLAR_AUTHOR_ID: 'uy-28F0AAAAJ'  # Your Google Scholar ID
         run: |
           set -euo pipefail  # Strict mode: exit on any error
           python serpapi_fetcher.py
