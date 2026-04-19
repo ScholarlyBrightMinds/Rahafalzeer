@@ -134,7 +134,6 @@ window.SITE_CONFIG = {
             { icon: "flask",    title: "Molecular Pharmacology",      desc: "Receptor biology, endothelin signalling, drug–target interaction studies, in vitro cancer modelling with MTT, SRB, and Western blotting." },
             { icon: "molecule", title: "Nanomedicine &amp; Drug Delivery", desc: "Nano-vesicle formulation, pro-bilosomes, zeta-sizer characterisation, LC-MS, freeze-drying, and bioavailability enhancement." },
             { icon: "network",  title: "Drug Repurposing",             desc: "Repositioning licensed agents — particularly endothelin receptor antagonists — as candidates in oncology." },
-            { icon: "document", title: "Pharmacy Education",           desc: "Undergraduate and diploma teaching, assessment design, and student mentorship at Gulf Medical University." }
         ],
 
         awards: [
