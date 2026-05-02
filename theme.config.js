@@ -75,7 +75,6 @@ window.SITE_CONFIG = {
     // ── IDs (external profiles) ───────────────────────────────────
     ids: {
         scholar: "uy-28F0AAAAJ",
-        scopus:  "",
         orcid:   "0009-0004-1752-3171",
         email:   "rahaf@gmu.ac.ae"
     },
