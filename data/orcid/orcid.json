@@ -1,0 +1,562 @@
+{
+  "orcid_id": "0009-0004-1752-3171",
+  "last_fetched": "2026-05-19T11:10:46.261853+00:00",
+  "summary": {
+    "works_count": 2,
+    "peer_reviews_count": 0,
+    "employments_count": 1,
+    "educations_count": 2,
+    "fundings_count": 0,
+    "distinctions_count": 0,
+    "services_count": 0
+  },
+  "sections": {
+    "person": {
+      "last-modified-date": null,
+      "name": {
+        "created-date": {
+          "value": 1702136914503
+        },
+        "last-modified-date": {
+          "value": 1703163632964
+        },
+        "given-names": {
+          "value": "Rahaf"
+        },
+        "family-name": {
+          "value": "Alzeer"
+        },
+        "credit-name": {
+          "value": "Rahaf Al-Zeer"
+        },
+        "source": null,
+        "visibility": "public",
+        "path": "0009-0004-1752-3171"
+      },
+      "other-names": {
+        "last-modified-date": null,
+        "other-name": [],
+        "path": "/0009-0004-1752-3171/other-names"
+      },
+      "biography": null,
+      "researcher-urls": {
+        "last-modified-date": null,
+        "researcher-url": [],
+        "path": "/0009-0004-1752-3171/researcher-urls"
+      },
+      "emails": {
+        "last-modified-date": null,
+        "email": [],
+        "path": "/0009-0004-1752-3171/email"
+      },
+      "addresses": {
+        "last-modified-date": null,
+        "address": [],
+        "path": "/0009-0004-1752-3171/address"
+      },
+      "keywords": {
+        "last-modified-date": null,
+        "keyword": [],
+        "path": "/0009-0004-1752-3171/keywords"
+      },
+      "external-identifiers": {
+        "last-modified-date": null,
+        "external-identifier": [],
+        "path": "/0009-0004-1752-3171/external-identifiers"
+      },
+      "path": "/0009-0004-1752-3171/person"
+    },
+    "works": {
+      "last-modified-date": {
+        "value": 1742294150357
+      },
+      "group": [
+        {
+          "last-modified-date": {
+            "value": 1742294150357
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1186/s12889-025-21332-3",
+                "external-id-normalized": {
+                  "value": "10.1186/s12889-025-21332-3",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1186/s12889-025-21332-3"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "work-summary": [
+            {
+              "put-code": 180310284,
+              "created-date": {
+                "value": 1742294124840
+              },
+              "last-modified-date": {
+                "value": 1742294150357
+              },
+              "source": {
+                "source-orcid": {
+                  "uri": "https://orcid.org/0009-0004-1752-3171",
+                  "path": "0009-0004-1752-3171",
+                  "host": "orcid.org"
+                },
+                "source-client-id": null,
+                "source-name": {
+                  "value": "Rahaf Al-Zeer"
+                },
+                "assertion-origin-orcid": null,
+                "assertion-origin-client-id": null,
+                "assertion-origin-name": null
+              },
+              "title": {
+                "title": {
+                  "value": "UAE pharmacists\u2019 perceptions of the causes of unwanted or unused medications, their practices, and barriers to promoting safe medication disposal by the public"
+                },
+                "subtitle": null,
+                "translated-title": null
+              },
+              "external-ids": {
+                "external-id": [
+                  {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1186/s12889-025-21332-3",
+                    "external-id-normalized": {
+                      "value": "10.1186/s12889-025-21332-3",
+                      "transient": true
+                    },
+                    "external-id-normalized-error": null,
+                    "external-id-url": {
+                      "value": "https://doi.org/10.1186/s12889-025-21332-3"
+                    },
+                    "external-id-relationship": "self"
+                  },
+                  {
+                    "external-id-type": "issn",
+                    "external-id-value": "1471-2458",
+                    "external-id-normalized": {
+                      "value": "1471-2458",
+                      "transient": true
+                    },
+                    "external-id-normalized-error": null,
+                    "external-id-url": {
+                      "value": "https://portal.issn.org/resource/ISSN/1471-2458"
+                    },
+                    "external-id-relationship": "part-of"
+                  }
+                ]
+              },
+              "url": {
+                "value": "http://dx.doi.org/10.1186/s12889-025-21332-3"
+              },
+              "type": "journal-article",
+              "publication-date": {
+                "year": {
+                  "value": "2025"
+                },
+                "month": {
+                  "value": "01"
+                },
+                "day": {
+                  "value": "20"
+                }
+              },
+              "journal-title": {
+                "value": "BMC Public Health"
+              },
+              "visibility": "public",
+              "path": "/0009-0004-1752-3171/work/180310284",
+              "display-index": "0"
+            }
+          ]
+        },
+        {
+          "last-modified-date": {
+            "value": 1742294150357
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1155/2024/2052142",
+                "external-id-normalized": {
+                  "value": "10.1155/2024/2052142",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1155/2024/2052142"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "work-summary": [
+            {
+              "put-code": 180310121,
+              "created-date": {
+                "value": 1742293962158
+              },
+              "last-modified-date": {
+                "value": 1742294150357
+              },
+              "source": {
+                "source-orcid": {
+                  "uri": "https://orcid.org/0009-0004-1752-3171",
+                  "path": "0009-0004-1752-3171",
+                  "host": "orcid.org"
+                },
+                "source-client-id": null,
+                "source-name": {
+                  "value": "Rahaf Al-Zeer"
+                },
+                "assertion-origin-orcid": null,
+                "assertion-origin-client-id": null,
+                "assertion-origin-name": null
+              },
+              "title": {
+                "title": {
+                  "value": "Advancements and Challenges in Antiamyloid Therapy for Alzheimer\u2019s Disease: A Comprehensive Review"
+                },
+                "subtitle": null,
+                "translated-title": null
+              },
+              "external-ids": {
+                "external-id": [
+                  {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1155/2024/2052142",
+                    "external-id-normalized": {
+                      "value": "10.1155/2024/2052142",
+                      "transient": true
+                    },
+                    "external-id-normalized-error": null,
+                    "external-id-url": {
+                      "value": "https://doi.org/10.1155/2024/2052142"
+                    },
+                    "external-id-relationship": "self"
+                  },
+                  {
+                    "external-id-type": "issn",
+                    "external-id-value": "2090-8024",
+                    "external-id-normalized": {
+                      "value": "2090-8024",
+                      "transient": true
+                    },
+                    "external-id-normalized-error": null,
+                    "external-id-url": {
+                      "value": "https://portal.issn.org/resource/ISSN/2090-8024"
+                    },
+                    "external-id-relationship": "part-of"
+                  },
+                  {
+                    "external-id-type": "issn",
+                    "external-id-value": "2090-0252",
+                    "external-id-normalized": {
+                      "value": "2090-0252",
+                      "transient": true
+                    },
+                    "external-id-normalized-error": null,
+                    "external-id-url": {
+                      "value": "https://portal.issn.org/resource/ISSN/2090-0252"
+                    },
+                    "external-id-relationship": "part-of"
+                  }
+                ]
+              },
+              "url": {
+                "value": "http://dx.doi.org/10.1155/2024/2052142"
+              },
+              "type": "journal-article",
+              "publication-date": {
+                "year": {
+                  "value": "2024"
+                },
+                "month": {
+                  "value": "07"
+                },
+                "day": {
+                  "value": "22"
+                }
+              },
+              "journal-title": {
+                "value": "International Journal of Alzheimer\u2019s Disease"
+              },
+              "visibility": "public",
+              "path": "/0009-0004-1752-3171/work/180310121",
+              "display-index": "0"
+            }
+          ]
+        }
+      ],
+      "path": "/0009-0004-1752-3171/works"
+    },
+    "employments": {
+      "last-modified-date": {
+        "value": 1742293722305
+      },
+      "affiliation-group": [
+        {
+          "last-modified-date": {
+            "value": 1742293722305
+          },
+          "external-ids": {
+            "external-id": []
+          },
+          "summaries": [
+            {
+              "employment-summary": {
+                "created-date": {
+                  "value": 1742293722305
+                },
+                "last-modified-date": {
+                  "value": 1742293722305
+                },
+                "source": {
+                  "source-orcid": {
+                    "uri": "https://orcid.org/0009-0004-1752-3171",
+                    "path": "0009-0004-1752-3171",
+                    "host": "orcid.org"
+                  },
+                  "source-client-id": null,
+                  "source-name": {
+                    "value": "Rahaf Al-Zeer"
+                  },
+                  "assertion-origin-orcid": null,
+                  "assertion-origin-client-id": null,
+                  "assertion-origin-name": null
+                },
+                "put-code": 28227840,
+                "department-name": "Pharmaceutical Sciences ",
+                "role-title": "Teaching Assistant",
+                "start-date": {
+                  "year": {
+                    "value": "2024"
+                  },
+                  "month": {
+                    "value": "08"
+                  },
+                  "day": {
+                    "value": "22"
+                  }
+                },
+                "end-date": null,
+                "organization": {
+                  "name": "Gulf Medical University",
+                  "address": {
+                    "city": "Ajman",
+                    "region": "Ajman",
+                    "country": "AE"
+                  },
+                  "disambiguated-organization": {
+                    "disambiguated-organization-identifier": "https://ror.org/02kaerj47",
+                    "disambiguation-source": "ROR"
+                  }
+                },
+                "url": {
+                  "value": "https://gmu.ac.ae/dr-rahaf-al-zeer/"
+                },
+                "external-ids": null,
+                "display-index": "0",
+                "visibility": "public",
+                "path": "/0009-0004-1752-3171/employment/28227840"
+              }
+            }
+          ]
+        }
+      ],
+      "path": "/0009-0004-1752-3171/employments"
+    },
+    "educations": {
+      "last-modified-date": {
+        "value": 1742293807575
+      },
+      "affiliation-group": [
+        {
+          "last-modified-date": {
+            "value": 1724447084840
+          },
+          "external-ids": {
+            "external-id": []
+          },
+          "summaries": [
+            {
+              "education-summary": {
+                "created-date": {
+                  "value": 1724447084840
+                },
+                "last-modified-date": {
+                  "value": 1724447084840
+                },
+                "source": {
+                  "source-orcid": {
+                    "uri": "https://orcid.org/0009-0004-1752-3171",
+                    "path": "0009-0004-1752-3171",
+                    "host": "orcid.org"
+                  },
+                  "source-client-id": null,
+                  "source-name": {
+                    "value": "Rahaf Al-Zeer"
+                  },
+                  "assertion-origin-orcid": null,
+                  "assertion-origin-client-id": null,
+                  "assertion-origin-name": null
+                },
+                "put-code": 25077658,
+                "department-name": "Department of Pharmaceutical Sciences",
+                "role-title": "Master's of Science in Drug Discovery and Development",
+                "start-date": {
+                  "year": {
+                    "value": "2024"
+                  },
+                  "month": {
+                    "value": "08"
+                  },
+                  "day": {
+                    "value": "20"
+                  }
+                },
+                "end-date": null,
+                "organization": {
+                  "name": "Gulf Medical University",
+                  "address": {
+                    "city": "Ajman City",
+                    "region": null,
+                    "country": "AE"
+                  },
+                  "disambiguated-organization": {
+                    "disambiguated-organization-identifier": "https://ror.org/02kaerj47",
+                    "disambiguation-source": "ROR"
+                  }
+                },
+                "url": null,
+                "external-ids": null,
+                "display-index": "0",
+                "visibility": "public",
+                "path": "/0009-0004-1752-3171/education/25077658"
+              }
+            }
+          ]
+        },
+        {
+          "last-modified-date": {
+            "value": 1742293807575
+          },
+          "external-ids": {
+            "external-id": []
+          },
+          "summaries": [
+            {
+              "education-summary": {
+                "created-date": {
+                  "value": 1702137084591
+                },
+                "last-modified-date": {
+                  "value": 1742293807575
+                },
+                "source": {
+                  "source-orcid": {
+                    "uri": "https://orcid.org/0009-0004-1752-3171",
+                    "path": "0009-0004-1752-3171",
+                    "host": "orcid.org"
+                  },
+                  "source-client-id": null,
+                  "source-name": {
+                    "value": "Rahaf Al-Zeer"
+                  },
+                  "assertion-origin-orcid": null,
+                  "assertion-origin-client-id": null,
+                  "assertion-origin-name": null
+                },
+                "put-code": 21936897,
+                "department-name": null,
+                "role-title": "Bachelor of Pharmacy (B.Pharm)",
+                "start-date": {
+                  "year": {
+                    "value": "2020"
+                  },
+                  "month": {
+                    "value": "09"
+                  },
+                  "day": {
+                    "value": "21"
+                  }
+                },
+                "end-date": {
+                  "year": {
+                    "value": "2024"
+                  },
+                  "month": {
+                    "value": "07"
+                  },
+                  "day": {
+                    "value": "15"
+                  }
+                },
+                "organization": {
+                  "name": "Dubai Pharmacy College",
+                  "address": {
+                    "city": "Dubai",
+                    "region": "United Arab Emirates",
+                    "country": "AE"
+                  },
+                  "disambiguated-organization": {
+                    "disambiguated-organization-identifier": "https://ror.org/013aq5m10",
+                    "disambiguation-source": "ROR"
+                  }
+                },
+                "url": null,
+                "external-ids": null,
+                "display-index": "0",
+                "visibility": "public",
+                "path": "/0009-0004-1752-3171/education/21936897"
+              }
+            }
+          ]
+        }
+      ],
+      "path": "/0009-0004-1752-3171/educations"
+    },
+    "qualifications": {
+      "last-modified-date": null,
+      "affiliation-group": [],
+      "path": "/0009-0004-1752-3171/qualifications"
+    },
+    "distinctions": {
+      "last-modified-date": null,
+      "affiliation-group": [],
+      "path": "/0009-0004-1752-3171/distinctions"
+    },
+    "fundings": {
+      "last-modified-date": null,
+      "group": [],
+      "path": "/0009-0004-1752-3171/fundings"
+    },
+    "memberships": {
+      "last-modified-date": null,
+      "affiliation-group": [],
+      "path": "/0009-0004-1752-3171/memberships"
+    },
+    "peer-reviews": {
+      "last-modified-date": null,
+      "group": [],
+      "path": "/0009-0004-1752-3171/peer-reviews"
+    },
+    "services": {
+      "last-modified-date": null,
+      "affiliation-group": [],
+      "path": "/0009-0004-1752-3171/services"
+    },
+    "invited-positions": {
+      "last-modified-date": null,
+      "affiliation-group": [],
+      "path": "/0009-0004-1752-3171/invited-positions"
+    }
+  }
+}

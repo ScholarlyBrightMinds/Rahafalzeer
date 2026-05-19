@@ -1,0 +1,1645 @@
+{
+  "orcid_id": "0009-0004-1752-3171",
+  "last_fetched": "2026-05-19T11:10:47.880278+00:00",
+  "summary": {
+    "openalex_id": "https://openalex.org/A5104991276",
+    "display_name": "Rahaf Adnan Kh. Al Zeer",
+    "works_count": 1,
+    "cited_by_count": 15,
+    "h_index": 1,
+    "i10_index": 1,
+    "mean_citedness": 15.0,
+    "recent_year_works": 1,
+    "recent_year_cites": 15,
+    "oa_works": 1,
+    "works_in_pull": 1,
+    "works_with_doi": 1,
+    "top_concepts": [
+      {
+        "name": "Medicine",
+        "score": 0.8311742544174194,
+        "level": null,
+        "id": "71924100"
+      },
+      {
+        "name": "Disease",
+        "score": 0.5706096291542053,
+        "level": null,
+        "id": "2779134260"
+      },
+      {
+        "name": "Data science",
+        "score": 0.3508022427558899,
+        "level": null,
+        "id": "2522767166"
+      },
+      {
+        "name": "Pathology",
+        "score": 0.15673017501831055,
+        "level": null,
+        "id": "142724271"
+      },
+      {
+        "name": "Computer science",
+        "score": 0.06703108549118042,
+        "level": null,
+        "id": "41008148"
+      }
+    ]
+  },
+  "author": {
+    "id": "https://openalex.org/A5104991276",
+    "orcid": null,
+    "display_name": "Rahaf Adnan Kh. Al Zeer",
+    "raw_author_names": [
+      "Rahaf Adnan Kh. Al Zeer"
+    ],
+    "full_name": "Rahaf Adnan Kh. Al Zeer",
+    "works_count": 1,
+    "cited_by_count": 15,
+    "summary_stats": {
+      "2yr_mean_citedness": 15.0,
+      "h_index": 1,
+      "i10_index": 1
+    },
+    "ids": {
+      "openalex": "https://openalex.org/A5104991276",
+      "orcid": null
+    },
+    "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I885602679",
+          "ror": "https://ror.org/013aq5m10",
+          "display_name": "Dubai Pharmacy College",
+          "country_code": "AE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I885602679"
+          ]
+        },
+        "years": [
+          2024
+        ]
+      }
+    ],
+    "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I885602679",
+        "ror": "https://ror.org/013aq5m10",
+        "display_name": "Dubai Pharmacy College",
+        "country_code": "AE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I885602679"
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "id": "https://openalex.org/T10086",
+        "display_name": "Alzheimer's disease research and treatments",
+        "count": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2737",
+          "display_name": "Physiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10211",
+        "display_name": "Computational Drug Discovery Methods",
+        "count": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1703",
+          "display_name": "Computational Theory and Mathematics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12023",
+        "display_name": "Cholinesterase and Neurodegenerative Diseases",
+        "count": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2736",
+          "display_name": "Pharmacology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      }
+    ],
+    "topic_share": [
+      {
+        "id": "https://openalex.org/T12023",
+        "display_name": "Cholinesterase and Neurodegenerative Diseases",
+        "value": 8.4e-06,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2736",
+          "display_name": "Pharmacology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10086",
+        "display_name": "Alzheimer's disease research and treatments",
+        "value": 4.9e-06,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2737",
+          "display_name": "Physiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10211",
+        "display_name": "Computational Drug Discovery Methods",
+        "value": 3e-06,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1703",
+          "display_name": "Computational Theory and Mathematics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "x_concepts": [
+      {
+        "id": "71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "score": 0.8311742544174194
+      },
+      {
+        "id": "2779134260",
+        "wikidata": "https://www.wikidata.org/wiki/Q12136",
+        "display_name": "Disease",
+        "score": 0.5706096291542053
+      },
+      {
+        "id": "2522767166",
+        "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+        "display_name": "Data science",
+        "score": 0.3508022427558899
+      },
+      {
+        "id": "142724271",
+        "wikidata": "https://www.wikidata.org/wiki/Q7208",
+        "display_name": "Pathology",
+        "score": 0.15673017501831055
+      },
+      {
+        "id": "41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "score": 0.06703108549118042
+      }
+    ],
+    "counts_by_year": [
+      {
+        "year": 2024,
+        "works_count": 1,
+        "oa_works_count": 1,
+        "cited_by_count": 15
+      }
+    ],
+    "display_name_alternatives": [
+      "Rahaf Adnan Kh. Al Zeer"
+    ],
+    "block_key": "r al zeer",
+    "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104991276",
+    "updated_date": "2026-05-14T12:20:51",
+    "created_date": "2025-10-10T00:00:00"
+  },
+  "works": [
+    {
+      "id": "https://openalex.org/W4400930863",
+      "doi": "https://doi.org/10.1155/2024/2052142",
+      "title": "Advancements and Challenges in Antiamyloid Therapy for Alzheimer\u2019s Disease: A Comprehensive Review",
+      "display_name": "Advancements and Challenges in Antiamyloid Therapy for Alzheimer\u2019s Disease: A Comprehensive Review",
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4400930863",
+        "doi": "https://doi.org/10.1155/2024/2052142",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/39081336"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1155/2024/2052142",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1155/2024/2052142",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S147542015",
+          "display_name": "International Journal of Alzheimer s Disease",
+          "issn_l": "2090-0252",
+          "issn": [
+            "2090-0252",
+            "2090-8024"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319869",
+          "host_organization_name": "Hindawi Publishing Corporation",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319869"
+          ],
+          "host_organization_lineage_names": [
+            "Hindawi Publishing Corporation"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Alzheimer\u2019s Disease",
+        "raw_type": "journal-article"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1155/2024/2052142",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5056388759",
+            "display_name": "Semira Abdi Beshir",
+            "orcid": "https://orcid.org/0000-0003-4990-4783"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I885602679",
+              "display_name": "Dubai Pharmacy College",
+              "ror": "https://ror.org/013aq5m10",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I885602679"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Semira Abdi Beshir",
+          "raw_affiliation_strings": [
+            "Department of Pharmacy Practice Dubai Pharmacy College for Girls, Dubai, UAE",
+            "Department of Pharmacy Practice ,  Dubai Pharmacy College for Girls ,  Dubai ,  UAE ,  dpc.edu"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4990-4783",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Pharmacy Practice Dubai Pharmacy College for Girls, Dubai, UAE",
+              "institution_ids": [
+                "https://openalex.org/I885602679"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Pharmacy Practice ,  Dubai Pharmacy College for Girls ,  Dubai ,  UAE ,  dpc.edu",
+              "institution_ids": [
+                "https://openalex.org/I885602679"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003144386",
+            "display_name": "Nadia Hussain",
+            "orcid": "https://orcid.org/0000-0001-6314-2485"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I161913731",
+              "display_name": "Al Ain University",
+              "ror": "https://ror.org/023abrt21",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I161913731"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nadia Hussain",
+          "raw_affiliation_strings": [
+            "AAU Health and Biomedical Research Centre Al Ain University, Abu Dhabi, UAE",
+            "Department of Pharmaceutical Sciences College of Pharmacy Al Ain University, Al Ain, UAE",
+            "Department of Pharmaceutical Sciences ,  College of Pharmacy ,  Al Ain University ,  Al Ain ,  UAE ,  aau.ac.ae",
+            "AAU Health and Biomedical Research Centre ,  Al Ain University ,  Abu Dhabi ,  UAE ,  aau.ac.ae"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6314-2485",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "AAU Health and Biomedical Research Centre Al Ain University, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I161913731"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Pharmaceutical Sciences College of Pharmacy Al Ain University, Al Ain, UAE",
+              "institution_ids": [
+                "https://openalex.org/I161913731"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Pharmaceutical Sciences ,  College of Pharmacy ,  Al Ain University ,  Al Ain ,  UAE ,  aau.ac.ae",
+              "institution_ids": [
+                "https://openalex.org/I161913731"
+              ]
+            },
+            {
+              "raw_affiliation_string": "AAU Health and Biomedical Research Centre ,  Al Ain University ,  Abu Dhabi ,  UAE ,  aau.ac.ae",
+              "institution_ids": [
+                "https://openalex.org/I161913731"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043174913",
+            "display_name": "Vineetha Menon",
+            "orcid": "https://orcid.org/0000-0002-2030-0962"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I163074564",
+              "display_name": "Gulf Medical University",
+              "ror": "https://ror.org/02kaerj47",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I163074564"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Vineetha Bharathan Menon",
+          "raw_affiliation_strings": [
+            "Department of Pharmacy Practice College of Pharmacy Gulf Medical University, Ajman, UAE",
+            "Department of Pharmacy Practice ,  College of Pharmacy ,  Gulf Medical University ,  Ajman ,  UAE ,  gmu.ac.ae"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2030-0962",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Pharmacy Practice College of Pharmacy Gulf Medical University, Ajman, UAE",
+              "institution_ids": [
+                "https://openalex.org/I163074564"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Pharmacy Practice ,  College of Pharmacy ,  Gulf Medical University ,  Ajman ,  UAE ,  gmu.ac.ae",
+              "institution_ids": [
+                "https://openalex.org/I163074564"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010154794",
+            "display_name": "Amal H. I. Al Haddad",
+            "orcid": "https://orcid.org/0000-0002-4411-5577"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210093832",
+              "display_name": "Sheikh Shakhbout Medical City",
+              "ror": "https://ror.org/00gk5fa11",
+              "country_code": "AE",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210093832"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amal H. I. Al Haddad",
+          "raw_affiliation_strings": [
+            "Chief Operations Office Sheikh Shakhbout Medical City (SSMC) PureHealth, Abu Dhabi, UAE",
+            "Chief Operations Office ,  Sheikh Shakhbout Medical City (SSMC) ,  PureHealth ,  Abu Dhabi ,  UAE ,  ssmcabudhabi.ae"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4411-5577",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chief Operations Office Sheikh Shakhbout Medical City (SSMC) PureHealth, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I4210093832"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Chief Operations Office ,  Sheikh Shakhbout Medical City (SSMC) ,  PureHealth ,  Abu Dhabi ,  UAE ,  ssmcabudhabi.ae",
+              "institution_ids": [
+                "https://openalex.org/I4210093832"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5104991276",
+            "display_name": "Rahaf Adnan Kh. Al Zeer",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I885602679",
+              "display_name": "Dubai Pharmacy College",
+              "ror": "https://ror.org/013aq5m10",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I885602679"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rahaf Adnan Kh. Al Zeer",
+          "raw_affiliation_strings": [
+            "Dubai Pharmacy College for Girls, Dubai, UAE",
+            "Dubai Pharmacy College for Girls ,  Dubai ,  UAE ,  dpc.edu"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0004-1752-3171",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Dubai Pharmacy College for Girls, Dubai, UAE",
+              "institution_ids": [
+                "https://openalex.org/I885602679"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Dubai Pharmacy College for Girls ,  Dubai ,  UAE ,  dpc.edu",
+              "institution_ids": [
+                "https://openalex.org/I885602679"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5068630017",
+            "display_name": "Asim Ahmed Elnour",
+            "orcid": "https://orcid.org/0000-0002-4143-7810"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I117222138",
+              "display_name": "Abu Dhabi University",
+              "ror": "https://ror.org/01r3kjq03",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I117222138"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I161913731",
+              "display_name": "Al Ain University",
+              "ror": "https://ror.org/023abrt21",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I161913731"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Asim Ahmed Elnour",
+          "raw_affiliation_strings": [
+            "AAU Health and Biomedical Research Centre Al Ain University, Abu Dhabi, UAE",
+            "College of Pharmacy Al Ain University Abu Dhabi Campus, Abu Dhabi, UAE",
+            "AAU Health and Biomedical Research Centre ,  Al Ain University ,  Abu Dhabi ,  UAE ,  aau.ac.ae",
+            "College of Pharmacy ,  Al Ain University ,  Abu Dhabi Campus ,  Abu Dhabi ,  UAE ,  aau.ac.ae"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4143-7810",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "AAU Health and Biomedical Research Centre Al Ain University, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I161913731"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Pharmacy Al Ain University Abu Dhabi Campus, Abu Dhabi, UAE",
+              "institution_ids": [
+                "https://openalex.org/I117222138",
+                "https://openalex.org/I161913731"
+              ]
+            },
+            {
+              "raw_affiliation_string": "AAU Health and Biomedical Research Centre ,  Al Ain University ,  Abu Dhabi ,  UAE ,  aau.ac.ae",
+              "institution_ids": [
+                "https://openalex.org/I161913731"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Pharmacy ,  Al Ain University ,  Abu Dhabi Campus ,  Abu Dhabi ,  UAE ,  aau.ac.ae",
+              "institution_ids": [
+                "https://openalex.org/I161913731"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5056388759"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I885602679"
+      ],
+      "apc_list": {
+        "value": 775,
+        "currency": "USD",
+        "value_usd": 775
+      },
+      "apc_paid": {
+        "value": 775,
+        "currency": "USD",
+        "value_usd": 775
+      },
+      "fwci": 4.5667,
+      "has_fulltext": true,
+      "cited_by_count": 15,
+      "citation_normalized_percentile": {
+        "value": 0.95451895,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "2024",
+        "issue": "1",
+        "first_page": "2052142",
+        "last_page": "2052142"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10086",
+        "display_name": "Alzheimer's disease research and treatments",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2737",
+          "display_name": "Physiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10086",
+          "display_name": "Alzheimer's disease research and treatments",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2737",
+            "display_name": "Physiology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12023",
+          "display_name": "Cholinesterase and Neurodegenerative Diseases",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2736",
+            "display_name": "Pharmacology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10211",
+          "display_name": "Computational Drug Discovery Methods",
+          "score": 0.9782999753952026,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1703",
+            "display_name": "Computational Theory and Mathematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.8311742544174194
+        },
+        {
+          "id": "https://openalex.org/keywords/disease",
+          "display_name": "Disease",
+          "score": 0.5706096291542053
+        },
+        {
+          "id": "https://openalex.org/keywords/data-science",
+          "display_name": "Data science",
+          "score": 0.3508022427558899
+        },
+        {
+          "id": "https://openalex.org/keywords/pathology",
+          "display_name": "Pathology",
+          "score": 0.15673017501831055
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.06703108549118042
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.8311742544174194
+        },
+        {
+          "id": "https://openalex.org/C2779134260",
+          "wikidata": "https://www.wikidata.org/wiki/Q12136",
+          "display_name": "Disease",
+          "level": 2,
+          "score": 0.5706096291542053
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.3508022427558899
+        },
+        {
+          "id": "https://openalex.org/C142724271",
+          "wikidata": "https://www.wikidata.org/wiki/Q7208",
+          "display_name": "Pathology",
+          "level": 1,
+          "score": 0.15673017501831055
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.06703108549118042
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1155/2024/2052142",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1155/2024/2052142",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S147542015",
+            "display_name": "International Journal of Alzheimer s Disease",
+            "issn_l": "2090-0252",
+            "issn": [
+              "2090-0252",
+              "2090-8024"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319869",
+            "host_organization_name": "Hindawi Publishing Corporation",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319869"
+            ],
+            "host_organization_lineage_names": [
+              "Hindawi Publishing Corporation"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Alzheimer\u2019s Disease",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:39081336",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39081336",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International journal of Alzheimer's disease",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11288696",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11288696",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11288696/pdf/IJAD2024-2052142.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Int J Alzheimers Dis",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:90dfae64651440c894da59b4d679767b",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/90dfae64651440c894da59b4d679767b",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "International Journal of Alzheimer's Disease, Vol 2024 (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1155/2024/2052142",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1155/2024/2052142",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S147542015",
+          "display_name": "International Journal of Alzheimer s Disease",
+          "issn_l": "2090-0252",
+          "issn": [
+            "2090-0252",
+            "2090-8024"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319869",
+          "host_organization_name": "Hindawi Publishing Corporation",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319869"
+          ],
+          "host_organization_lineage_names": [
+            "Hindawi Publishing Corporation"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Alzheimer\u2019s Disease",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 98,
+      "referenced_works": [
+        "https://openalex.org/W1542215809",
+        "https://openalex.org/W1603244154",
+        "https://openalex.org/W1979590358",
+        "https://openalex.org/W1981527089",
+        "https://openalex.org/W1994067502",
+        "https://openalex.org/W2015484447",
+        "https://openalex.org/W2023121717",
+        "https://openalex.org/W2028743212",
+        "https://openalex.org/W2032920422",
+        "https://openalex.org/W2052742260",
+        "https://openalex.org/W2063808031",
+        "https://openalex.org/W2085804617",
+        "https://openalex.org/W2103440561",
+        "https://openalex.org/W2133019124",
+        "https://openalex.org/W2147606255",
+        "https://openalex.org/W2151507730",
+        "https://openalex.org/W2300480290",
+        "https://openalex.org/W2330649365",
+        "https://openalex.org/W2760955530",
+        "https://openalex.org/W2787612390",
+        "https://openalex.org/W2792593254",
+        "https://openalex.org/W2808028315",
+        "https://openalex.org/W2940958170",
+        "https://openalex.org/W2958665365",
+        "https://openalex.org/W2986294123",
+        "https://openalex.org/W3005267059",
+        "https://openalex.org/W3010334133",
+        "https://openalex.org/W3019101408",
+        "https://openalex.org/W3026315764",
+        "https://openalex.org/W3044090667",
+        "https://openalex.org/W3045997188",
+        "https://openalex.org/W3074486531",
+        "https://openalex.org/W3080299178",
+        "https://openalex.org/W3081099132",
+        "https://openalex.org/W3085706776",
+        "https://openalex.org/W3091867694",
+        "https://openalex.org/W3100915627",
+        "https://openalex.org/W3119938662",
+        "https://openalex.org/W3133017904",
+        "https://openalex.org/W3133453048",
+        "https://openalex.org/W3137826907",
+        "https://openalex.org/W3152692563",
+        "https://openalex.org/W3155971896",
+        "https://openalex.org/W3164390524",
+        "https://openalex.org/W3197035705",
+        "https://openalex.org/W3208670486",
+        "https://openalex.org/W4206046172",
+        "https://openalex.org/W4206774749",
+        "https://openalex.org/W4210433784",
+        "https://openalex.org/W4210807180",
+        "https://openalex.org/W4212926739",
+        "https://openalex.org/W4212963692",
+        "https://openalex.org/W4220777365",
+        "https://openalex.org/W4220954708",
+        "https://openalex.org/W4223437978",
+        "https://openalex.org/W4224253333",
+        "https://openalex.org/W4224862282",
+        "https://openalex.org/W4224996131",
+        "https://openalex.org/W4226454711",
+        "https://openalex.org/W4283360267",
+        "https://openalex.org/W4283643624",
+        "https://openalex.org/W4288987676",
+        "https://openalex.org/W4289874408",
+        "https://openalex.org/W4290975816",
+        "https://openalex.org/W4291824893",
+        "https://openalex.org/W4293499539",
+        "https://openalex.org/W4296546783",
+        "https://openalex.org/W4306644813",
+        "https://openalex.org/W4307342071",
+        "https://openalex.org/W4310461604",
+        "https://openalex.org/W4311578239",
+        "https://openalex.org/W4312128797",
+        "https://openalex.org/W4320923619",
+        "https://openalex.org/W4321098521",
+        "https://openalex.org/W4321334557",
+        "https://openalex.org/W4321457551",
+        "https://openalex.org/W4322488265",
+        "https://openalex.org/W4322730368",
+        "https://openalex.org/W4360591479",
+        "https://openalex.org/W4364353742",
+        "https://openalex.org/W4365396259",
+        "https://openalex.org/W4376129678",
+        "https://openalex.org/W4377116102",
+        "https://openalex.org/W4378219872",
+        "https://openalex.org/W4382601497",
+        "https://openalex.org/W4383724423",
+        "https://openalex.org/W4384522480",
+        "https://openalex.org/W4385854855",
+        "https://openalex.org/W4386502171",
+        "https://openalex.org/W4386996842",
+        "https://openalex.org/W4387326795",
+        "https://openalex.org/W4388847328",
+        "https://openalex.org/W4389617681",
+        "https://openalex.org/W4389729912",
+        "https://openalex.org/W4389734659",
+        "https://openalex.org/W4389791195",
+        "https://openalex.org/W4391968701",
+        "https://openalex.org/W4396560090"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W3031052312",
+        "https://openalex.org/W4389568370",
+        "https://openalex.org/W3032375762",
+        "https://openalex.org/W1995515455",
+        "https://openalex.org/W2080531066",
+        "https://openalex.org/W3108674512",
+        "https://openalex.org/W1506200166",
+        "https://openalex.org/W1489783725",
+        "https://openalex.org/W2148612803"
+      ],
+      "abstract_inverted_index": {
+        "Alzheimer\u2019s": [
+          0
+        ],
+        "disease": [
+          1
+        ],
+        "(AD)": [
+          2
+        ],
+        "is": [
+          3,
+          56,
+          64
+        ],
+        "a": [
+          4,
+          48,
+          59
+        ],
+        "progressive": [
+          5
+        ],
+        "neurodegenerative": [
+          6
+        ],
+        "disorder": [
+          7
+        ],
+        "caused": [
+          8
+        ],
+        "by": [
+          9
+        ],
+        "the": [
+          10,
+          22,
+          38,
+          65,
+          77,
+          91,
+          118,
+          154,
+          194
+        ],
+        "accumulation": [
+          11
+        ],
+        "of": [
+          12,
+          50,
+          79,
+          141,
+          166,
+          185,
+          196
+        ],
+        "amyloid\u2010beta": [
+          13
+        ],
+        "(A": [
+          14
+        ],
+        "\u03b2": [
+          15,
+          74
+        ],
+        ")": [
+          16
+        ],
+        "proteins": [
+          17
+        ],
+        "and": [
+          18,
+          41,
+          84,
+          129,
+          137,
+          171,
+          177,
+          218,
+          222
+        ],
+        "neurofibrillary": [
+          19
+        ],
+        "tangles": [
+          20
+        ],
+        "in": [
+          21,
+          29,
+          43,
+          99,
+          160,
+          193,
+          229
+        ],
+        "brain.": [
+          23
+        ],
+        "There": [
+          24
+        ],
+        "have": [
+          25
+        ],
+        "been": [
+          26
+        ],
+        "recent": [
+          27,
+          39
+        ],
+        "advancements": [
+          28,
+          40
+        ],
+        "antiamyloid": [
+          30,
+          44,
+          53,
+          198
+        ],
+        "therapy": [
+          31,
+          54
+        ],
+        "for": [
+          32,
+          76,
+          169,
+          179
+        ],
+        "AD.": [
+          33
+        ],
+        "This": [
+          34
+        ],
+        "narrative": [
+          35
+        ],
+        "review": [
+          36
+        ],
+        "explores": [
+          37
+        ],
+        "challenges": [
+          42,
+          149
+        ],
+        "therapy.": [
+          45
+        ],
+        "In": [
+          46,
+          117
+        ],
+        "addition,": [
+          47
+        ],
+        "summary": [
+          49
+        ],
+        "evidence": [
+          51
+        ],
+        "from": [
+          52
+        ],
+        "trials": [
+          55
+        ],
+        "presented": [
+          57
+        ],
+        "with": [
+          58,
+          81,
+          101,
+          125
+        ],
+        "focus": [
+          60,
+          206
+        ],
+        "on": [
+          61,
+          207
+        ],
+        "lecanemab.": [
+          62
+        ],
+        "Lecanemab": [
+          63,
+          89
+        ],
+        "most": [
+          66
+        ],
+        "recently": [
+          67
+        ],
+        "approved": [
+          68
+        ],
+        "monoclonal": [
+          69
+        ],
+        "antibody": [
+          70
+        ],
+        "that": [
+          71,
+          225
+        ],
+        "targets": [
+          72
+        ],
+        "A": [
+          73
+        ],
+        "protofibrils": [
+          75
+        ],
+        "treatment": [
+          78
+        ],
+        "patients": [
+          80,
+          100
+        ],
+        "early": [
+          82,
+          104
+        ],
+        "AD": [
+          83,
+          106,
+          120,
+          230
+        ],
+        "mild": [
+          85
+        ],
+        "cognitive": [
+          86,
+          97
+        ],
+        "impairment": [
+          87
+        ],
+        "(MCI).": [
+          88
+        ],
+        "was": [
+          90,
+          123
+        ],
+        "first": [
+          92
+        ],
+        "drug": [
+          93,
+          155
+        ],
+        "shown": [
+          94
+        ],
+        "to": [
+          95,
+          210
+        ],
+        "slow": [
+          96
+        ],
+        "decline": [
+          98
+        ],
+        "MCI": [
+          102
+        ],
+        "or": [
+          103
+        ],
+        "onset": [
+          105
+        ],
+        "dementia": [
+          107
+        ],
+        "when": [
+          108
+        ],
+        "administered": [
+          109
+        ],
+        "as": [
+          110,
+          201
+        ],
+        "an": [
+          111
+        ],
+        "infusion": [
+          112
+        ],
+        "once": [
+          113
+        ],
+        "every": [
+          114
+        ],
+        "two": [
+          115
+        ],
+        "weeks.": [
+          116
+        ],
+        "Clarity": [
+          119
+        ],
+        "trial,": [
+          121
+        ],
+        "lecanemab": [
+          122,
+          142
+        ],
+        "associated": [
+          124
+        ],
+        "infusion\u2010site": [
+          126
+        ],
+        "reactions": [
+          127
+        ],
+        "(26.4%)": [
+          128
+        ],
+        "amyloid\u2010related": [
+          130
+        ],
+        "imaging": [
+          131,
+          170
+        ],
+        "abnormalities": [
+          132
+        ],
+        "(12.6%).": [
+          133
+        ],
+        "The": [
+          134,
+          163
+        ],
+        "clinical": [
+          135,
+          161
+        ],
+        "relevance": [
+          136
+        ],
+        "long\u2010term": [
+          138
+        ],
+        "side": [
+          139,
+          181
+        ],
+        "effects": [
+          140,
+          182
+        ],
+        "require": [
+          143
+        ],
+        "further": [
+          144
+        ],
+        "longitudinal": [
+          145
+        ],
+        "observation.": [
+          146
+        ],
+        "However,": [
+          147
+        ],
+        "several": [
+          148
+        ],
+        "must": [
+          150,
+          205
+        ],
+        "be": [
+          151,
+          157
+        ],
+        "addressed": [
+          152
+        ],
+        "before": [
+          153
+        ],
+        "can": [
+          156
+        ],
+        "routinely": [
+          158
+        ],
+        "used": [
+          159
+        ],
+        "practice.": [
+          162
+        ],
+        "drug\u2019s": [
+          164
+        ],
+        "route": [
+          165
+        ],
+        "administration,": [
+          167
+        ],
+        "need": [
+          168
+        ],
+        "genetic": [
+          172
+        ],
+        "testing,": [
+          173
+        ],
+        "affordability,": [
+          174
+        ],
+        "accessibility,": [
+          175
+        ],
+        "infrastructure,": [
+          176
+        ],
+        "potential": [
+          178,
+          195
+        ],
+        "serious": [
+          180
+        ],
+        "are": [
+          183
+        ],
+        "some": [
+          184
+        ],
+        "these": [
+          186
+        ],
+        "challenges.": [
+          187
+        ],
+        "Lecanemab\u2019s": [
+          188
+        ],
+        "approval": [
+          189
+        ],
+        "has": [
+          190
+        ],
+        "fueled": [
+          191
+        ],
+        "interest": [
+          192
+        ],
+        "other": [
+          197
+        ],
+        "therapies,": [
+          199
+        ],
+        "such": [
+          200
+        ],
+        "donanemab.": [
+          202
+        ],
+        "Future": [
+          203
+        ],
+        "research": [
+          204
+        ],
+        "developing": [
+          208
+        ],
+        "strategies": [
+          209
+        ],
+        "prevent": [
+          211
+        ],
+        "AD;": [
+          212
+        ],
+        "identify": [
+          213
+        ],
+        "easy\u2010to\u2010use": [
+          214
+        ],
+        "validated": [
+          215
+        ],
+        "plasma\u2010based": [
+          216
+        ],
+        "assays;": [
+          217
+        ],
+        "discover": [
+          219
+        ],
+        "newer": [
+          220
+        ],
+        "user\u2010friendly,": [
+          221
+        ],
+        "cost\u2010effective": [
+          223
+        ],
+        "drugs": [
+          224
+        ],
+        "target": [
+          226
+        ],
+        "multiple": [
+          227
+        ],
+        "pathways": [
+          228
+        ],
+        "pathology.": [
+          231
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-05-16T08:24:45.110214",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ]
+}
