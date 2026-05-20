@@ -37,12 +37,58 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,300;1,9..144,400&family=Manrope:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
 
+<!-- Schema.org Person markup — what Google's Knowledge Graph reads.
+     The sameAs array tells Google all these profiles belong to the same
+     person, allowing entity consolidation and a researcher panel in SERPs. -->
 <script type="application/ld+json">
 {
+  "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://scholarlybrightminds.github.io/Rahafalzeer/#person",
   "name": "Rahaf Adnan Al-Zeer",
+  "alternateName": ["Rahaf Adnan Kh. Al Zeer", "Rahaf Al Zeer", "Al-Zeer R"],
   "givenName": "Rahaf",
   "familyName": "Al-Zeer",
+  "additionalName": "Adnan",
+  "honorificPrefix": "Ms.",
+  "jobTitle": "Graduate Teaching Assistant & MSc Candidate",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Gulf Medical University",
+    "url": "https://www.gmu.ac.ae",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ajman",
+      "addressCountry": "AE"
+    }
+  },
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "@id": "https://scholarlybrightminds.github.io/#organization",
+      "name": "Scholarly Bright Minds",
+      "url": "https://scholarlybrightminds.github.io/"
+    },
+    {
+      "@type": "Organization",
+      "name": "American Association for Cancer Research",
+      "url": "https://www.aacr.org/"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Dubai Medical University",
+      "url": "https://www.dmcg.edu",
+      "department": "College of Pharmacy"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ajman",
+    "addressCountry": "AE"
+  },
+  "email": "rahaf@gmu.ac.ae",
   "image": "https://scholarlybrightminds.github.io/Rahafalzeer/images/profile.png",
   "url": "https://scholarlybrightminds.github.io/Rahafalzeer/",
   "sameAs": [
@@ -51,25 +97,47 @@
     "https://www.linkedin.com/in/rahaf-al-zeer-7093391ba/",
     "https://github.com/ScholarlyBrightMinds"
   ],
-  "@id": "https://scholarlybrightminds.github.io/Rahafalzeer/#person",
-  "jobTitle": "Pharmacist · Graduate Teaching Assistant · MSc Candidate",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Gulf Medical University",
-    "url": "https://www.gmu.ac.ae"
+  "knowsAbout": [
+    "Molecular Pharmacology",
+    "Drug Repurposing",
+    "Endothelin Receptor Antagonism",
+    "In Vitro Cancer Pharmacology",
+    "Cell Culture",
+    "ELISA",
+    "Western Blotting",
+    "qPCR",
+    "MTT Assays",
+    "Nanomedicine",
+    "Targeted Drug Delivery",
+    "Translational Oncology"
+  ],
+  "knowsLanguage": [
+    {"@type": "Language", "name": "English", "alternateName": "en"},
+    {"@type": "Language", "name": "Arabic", "alternateName": "ar"}
+  ],
+  "description": "Pharmacist, Graduate Teaching Assistant, and MSc candidate at Gulf Medical University (CGPA 3.9/4.0). MSc thesis investigates the repurposing of Aprocitentan, a licensed endothelin receptor antagonist, as a potential anticancer agent in pancreatic and breast cancer models. AACR member. Seeking PhD opportunities in molecular pharmacology and drug repurposing for oncology."
+}
+</script>
+
+<!-- Schema.org WebSite — gives Google an explicit publisher/site-name signal.
+     Without this, github.io subdomains tend to get auto-attributed to
+     "GitHub Pages documentation" in search results. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://scholarlybrightminds.github.io/Rahafalzeer/#website",
+  "url": "https://scholarlybrightminds.github.io/Rahafalzeer/",
+  "name": "Scholarly Bright Minds · Rahaf Adnan Al-Zeer",
+  "alternateName": "Rahaf Adnan Al-Zeer · Molecular Pharmacology &amp; Drug Repurposing",
+  "description": "Personal academic website of Rahaf Adnan Al-Zeer, researcher in molecular pharmacology, drug repurposing, and translational cancer biology.",
+  "inLanguage": "en",
+  "publisher": {
+    "@id": "https://scholarlybrightminds.github.io/Rahafalzeer/#person"
   },
-  "memberOf": {
-    "@type": "Organization",
-    "@id": "https://scholarlybrightminds.github.io/#organization",
-    "name": "Scholarly Bright Minds",
-    "url": "https://scholarlybrightminds.github.io/"
-  },
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Ajman",
-    "addressCountry": "UAE"
-  },
-  "email": "rahaf@gmu.ac.ae"
+  "about": {
+    "@id": "https://scholarlybrightminds.github.io/Rahafalzeer/#person"
+  }
 }
 </script>
 
@@ -187,6 +255,21 @@
         <div class="hero-image">
             <img data-bind="photo" alt="Profile">
         </div>
+    </section>
+
+    <!-- ═══ PHD CTA BLOCK ═══ -->
+    <!-- The primary conversion goal of the site: surfacing the PhD search.
+         Rendered by bindHome() from SITE_CONFIG.phdCTA. -->
+    <aside class="phd-cta reveal" aria-label="Open for PhD position" data-bind="phdCTA"></aside>
+
+    <hr class="rule">
+
+    <!-- ═══ BY THE NUMBERS ═══ -->
+    <section class="reveal impact-section">
+        <p class="sec-kicker">By the numbers</p>
+        <h2 class="sec-title">Track <em>record</em>.</h2>
+        <p class="impact-lede">A snapshot of the published work, awards, and upcoming milestones. Live tiles auto-update each Monday from Google Scholar and OpenAlex.</p>
+        <div class="impact-grid" data-bind="impactStats"></div>
     </section>
 
     <hr class="rule">
