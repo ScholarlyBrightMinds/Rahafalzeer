@@ -1,0 +1,21 @@
+{
+  "_about": "Plain-language summaries + topic tags per publication, keyed by DOI. Picked up by build_html.py and rendered into publications.html. Topics drive the filter buttons; recognised values: pharm, oncology, repurpose, review, thesis. A pub can carry multiple space-separated topics.",
+  "_updated": "2026-05-21",
+  "_note": "Rahaf currently has 1 OpenAlex work (15 cites) but the SerpAPI Scholar profile shows 4 papers. The OpenAlex record is split across three entities (A5104991276 is the active one). Entries below are topic-only for now; add TLDR strings as the thesis output gets published.",
+  "10.1186/s12889-025-21332-3": {
+    "topics": "pharm review"
+  },
+  "10.1155/2024/2052142": {
+    "topics": "pharm review"
+  },
+  "_no_doi_pubs": {
+    "_note": "The Cancer Research abstract (A014) and BMC Medical Education paper do not currently have DOIs in dois.json. They are tagged via heuristics in build_html._infer_topics from title keywords (e.g. 'aprocitentan' -> repurpose+oncology, 'breast cancer awareness' -> pharm).",
+    "fallback_topics": {
+      "aprocitentan": "repurpose oncology thesis",
+      "endothelin": "repurpose oncology thesis",
+      "breast cancer awareness": "pharm",
+      "medication disposal": "pharm",
+      "antiamyloid": "pharm review"
+    }
+  }
+}
