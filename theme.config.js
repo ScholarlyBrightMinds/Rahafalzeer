@@ -205,19 +205,6 @@ window.SITE_CONFIG = {
         ]
     },
 
-    // ── PhD CTA block (rendered prominently on index hero) ───────
-    // This is the #1 conversion goal of the site. Make it impossible to miss.
-    phdCTA: {
-        ribbon:  "Open for PhD",
-        title:   "Looking for a PhD position · Molecular Pharmacology &amp; Drug Repurposing · 2026/27",
-        body:    "I am actively applying for PhD opportunities in molecular pharmacology, drug repurposing, targeted drug delivery, and translational cancer biology, starting late 2026 or early 2027. Open to strong groups worldwide. If your work touches receptor pharmacology, in vitro cancer models, nanomedicine, or repurposing of licensed drugs in oncology, I would love to hear from you.",
-        primaryLabel: "Email me",
-        primaryHref:  "mailto:rahaf@gmu.ac.ae?subject=PhD%20position%20enquiry&body=Hi%20Rahaf%2C%0A%0AI%20saw%20your%20website%20and%20wanted%20to%20discuss%20a%20PhD%20opportunity%20in%20our%20group.%0A%0A",
-        secondaryLabel: "Read my research statement",
-        secondaryHref:  "research.html",
-        tertiaryLabel:  "View talks &amp; awards",
-        tertiaryHref:   "talks.html"
-    },
 
     // ── "By the numbers" impact tiles (home page) ────────────────
     // Each tile is one number + label + sub-line; first tile auto-updates
