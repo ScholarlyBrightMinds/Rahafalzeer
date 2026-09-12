@@ -1,16 +1,30 @@
 {
-  "4f1571004652ba81": {
+  "246b7d3ca21cb465": {
     "doi": "10.1155/2024/2052142",
     "confidence": 1.0,
     "matched_title": "Advancements and Challenges in Antiamyloid Therapy for Alzheimer’s Disease: A Comprehensive Review",
     "matched_year": 2024,
-    "matched_at": "2026-05-18T14:26:40+00:00"
+    "matched_at": "2026-09-12T19:35:03Z"
   },
-  "cfadd54d1bcedbc1": {
+  "75ff9a151b0cfe1f": {
+    "doi": "10.1158/1538-7445.canevol25-a014",
+    "confidence": 1.0,
+    "matched_title": "Abstract A014: Repurposing aprocitentan , an anti-hypertensive drug, as a potential anticancer agent: Targeting endothelin receptors in pancreatic and breast cancer models",
+    "matched_year": 2025,
+    "matched_at": "2026-09-12T19:35:03Z"
+  },
+  "c9b8bad62d4e0761": {
     "doi": "10.1186/s12889-025-21332-3",
     "confidence": 1.0,
     "matched_title": "UAE pharmacists’ perceptions of the causes of unwanted or unused medications, their practices, and barriers to promoting safe medication disposal by the public",
     "matched_year": 2025,
-    "matched_at": "2026-05-18T14:26:42+00:00"
+    "matched_at": "2026-09-12T19:35:03Z"
+  },
+  "ad68d18fbc5b0f16": {
+    "doi": "10.1186/s12909-026-09356-8",
+    "confidence": 1.0,
+    "matched_title": "Evaluation of a student-led breast cancer awareness campaign as a co-curricular model in pharmacy education: a mixed-methods study in the UAE",
+    "matched_year": 2026,
+    "matched_at": "2026-09-12T19:35:03Z"
   }
 }

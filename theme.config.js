@@ -106,7 +106,7 @@ window.SITE_CONFIG = {
     // step in the SerpApi workflow replaces the first chip with live numbers
     // (e.g., "1 Publication · 15 Citations") right before each commit.
     chips: [
-        { label: "4 Publications · 54 Citations" },
+        { label: "4 Publications · 37 Citations" },
         { label: "h-index 2" },
         { label: "🥇 1st Place Oral · AAU 2026", variant: "gold" },
         { label: "AACR Member" },
@@ -117,7 +117,7 @@ window.SITE_CONFIG = {
     ledes: {
         about:        "Pharmacist, educator, and researcher specialising in cancer pharmacology, drug repurposing, and nanomedicine.",
         projects:     "Active and completed research across drug repurposing, nano-vesicle formulation, qualitative pharmacy research, and cancer pharmacology.",
-        publications: "Peer-reviewed work spanning molecular pharmacology, nanomedicine, and clinical pharmacy. Updated automatically from Google Scholar.",
+        publications: "Peer-reviewed work spanning molecular pharmacology, nanomedicine, and clinical pharmacy. Updated weekly from OpenAlex and Crossref.",
         blog:         "Reflections on research life, science, and pharmacy education.",
         talks:        "Oral presentations, posters, and the upcoming MSc thesis defence. Awards and conference appearances across pharmacy and biomedical sciences.",
         contact:      "The fastest way to reach me. Below the form there is a short note for PhD supervisors, research collaborators, and journalists.",
@@ -217,8 +217,8 @@ window.SITE_CONFIG = {
     // via build_html.py from the weekly SerpApi pull (see numLiveSource).
     impactStats: [
         { num: "4",     label: "Publications",     sub: "peer-reviewed and indexed",                  numLiveSource: "total_documents" },
-        { num: "47",    label: "Citations",        sub: "across all work",                            numLiveSource: "total_citations" },
-        { num: "h=2",   label: "h-index",          sub: "sustained impact" },
+        { num: "37",    label: "Citations",        sub: "across all work",                            numLiveSource: "total_citations" },
+        { num: "2",   label: "h-index",          sub: "sustained impact", numLiveSource: "h_index" },
         { num: "🥇",    label: "1st Place Oral",   sub: "AAU Postgraduate Symposium · 2026",          variant: "gold" },
         { num: "Jul",   label: "MSc Defence",      sub: "scheduled July 2026, inshallah" }
     ],
