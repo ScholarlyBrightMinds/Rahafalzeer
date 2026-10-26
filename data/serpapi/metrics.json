@@ -1,10 +1,10 @@
 {
   "total_documents": 4,
-  "total_citations": 40,
+  "total_citations": 34,
   "h_index": 2,
   "author_id": "uy-28F0AAAAJ",
   "source": "open_indexes",
-  "last_updated": "2026-10-19T10:36:38Z",
+  "last_updated": "2026-10-26T10:52:03Z",
   "sources": {
     "openalex": {
       "papers": 4,
@@ -15,8 +15,8 @@
       "citations": 34
     },
     "semantic_scholar": {
-      "papers": 4,
-      "citations": 38
+      "papers": 0,
+      "citations": 0
     },
     "carried_forward": 0,
     "excluded_non_papers": 0
