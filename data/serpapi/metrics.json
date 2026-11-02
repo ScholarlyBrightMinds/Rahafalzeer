@@ -1,13 +1,13 @@
 {
-  "total_documents": 4,
-  "total_citations": 34,
+  "total_documents": 5,
+  "total_citations": 42,
   "h_index": 2,
   "author_id": "uy-28F0AAAAJ",
   "source": "open_indexes",
-  "last_updated": "2026-10-26T10:52:03Z",
+  "last_updated": "2026-11-02T13:15:15Z",
   "sources": {
     "openalex": {
-      "papers": 4,
+      "papers": 6,
       "citations": 33
     },
     "crossref": {
@@ -15,10 +15,10 @@
       "citations": 34
     },
     "semantic_scholar": {
-      "papers": 0,
-      "citations": 0
+      "papers": 4,
+      "citations": 40
     },
     "carried_forward": 0,
-    "excluded_non_papers": 0
+    "excluded_non_papers": 1
   }
 }
